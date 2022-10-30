@@ -1,3 +1,3 @@
 # LinkedIn_Boostrap_Clone
  
-![linkedin](https://user-images.githubusercontent.com/95219001/198896066-376dd89f-92ff-4699-b3aa-028b6ceb2f7e.png)
+![image](https://user-images.githubusercontent.com/95219001/198896084-92c5a70e-d5fa-4324-bcdb-c0b1460fb358.png)
