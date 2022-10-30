@@ -1,6 +1,6 @@
-# LinkedIn Boostrap Klon
+# LinkedIn Bootstrap Klon
 
-Patika.dev Başlangıç Seviye Front-End Programının verilen yönergeler doğrultusunda,  Boostrap kullanarak bireysel olarak tamamlamış olduğum LinkedIn klonu çalışmasıdır.
+Patika.dev Başlangıç Seviye Front-End Programının verilen yönergeler doğrultusunda, Bootstrap kullanarak bireysel olarak tamamlamış olduğum LinkedIn klonu çalışmasıdır.
 
 Çalışmanın ekran görüntüsü aşağıdaki gibidir
  
